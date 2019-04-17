@@ -1,0 +1,2 @@
+model_checkpoint_path: "IndianPine-model-MLP.ckpt"
+all_model_checkpoint_paths: "IndianPine-model-MLP.ckpt"
