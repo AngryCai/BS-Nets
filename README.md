@@ -27,4 +27,4 @@ Please cite the following paper.
 ![BS-Net-FC](https://github.com/AngryCai/BS-Nets/tree/master/schematic/BS-Net-FC.png)
 
 ## BS-Net-Conv ##
-![BS-Net-FC](https://github.com/AngryCai/BS-Nets/tree/master/schematic/BS-Net-Conv.png)
+![BS-Net-Conv](https://github.com/AngryCai/BS-Nets/tree/master/schematic/BS-Net-Conv.png)
