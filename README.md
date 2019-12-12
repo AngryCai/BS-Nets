@@ -21,10 +21,10 @@ Please cite the following paper.
     month={},}
 
 ## Overview ##
-![overview](https://github.com/AngryCai/BS-Nets/schematic/overview.png)
+![overview](https://github.com/AngryCai/BS-Nets/tree/master/schematic/overview.png)
 
 ## BS-Net-FC ##
-![BS-Net-FC](https://github.com/AngryCai/BS-Nets/schematic/BS-Net-FC.png)
+![BS-Net-FC](https://github.com/AngryCai/BS-Nets/tree/master/schematic/BS-Net-FC.png)
 
 ## BS-Net-Conv ##
-![BS-Net-FC](https://github.com/AngryCai/BS-Nets/schematic/BS-Net-Conv.png)
+![BS-Net-FC](https://github.com/AngryCai/BS-Nets/tree/master/schematic/BS-Net-Conv.png)
