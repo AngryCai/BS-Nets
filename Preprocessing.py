@@ -1,15 +1,8 @@
 # coding: utf-8
 
-# EMP-->KNN-->MajoriryFilter-->(select training samples again)
-#  -->KNN-->MajorityFilter-->... repeat this process
 from __future__ import print_function
 import numpy as np
-
-from Toolbox.rolling_window import rolling_window as rw
 import spectral as spy
-import tensorflow as tf
-
-spy_colors = np.array([[0, 0, 0],
                           [255, 0, 0],
                           [0, 255, 0],
                           [0, 0, 255],
