@@ -2,7 +2,7 @@
 Description:
     auxiliary functions
 """
-from Toolbox.Preprocessing import Processor
+from Preprocessing import Processor
 from sklearn.neighbors import KNeighborsClassifier as KNN
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_val_score, train_test_split

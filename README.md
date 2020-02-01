@@ -1,6 +1,11 @@
 # BS-Nets #
 Band selection (feature selection) of hyperspectral image using neural networks with attention mechanism.
  
+**Requirement**
+
+- TensorFlow-1.6
+
+
 Please cite the following paper.
 > 
 > [Y. Cai, X. Liu, and Z. Cai, "BS-Nets: An End-to-End Framework for Band Selection of Hyperspectral Image," IEEE Transactions on Geoscience and Remote Sensing, pp. 1-16, 2019.](https://ieeexplore.ieee.org/document/8907858 "BS-Nets: An End-to-End Framework for Band Selection of Hyperspectral Image")
